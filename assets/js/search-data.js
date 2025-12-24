@@ -79,13 +79,6 @@ ninja.data = [{
           window.open("https://github.com/Astricaelus", "_blank");
         },
       },{
-        id: 'social-git_server_url',
-        title: 'Git_server_url',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://git.zymsite.ink/ZYM", "_blank");
-        },
-      },{
         id: 'social-orcid',
         title: 'ORCID',
         section: 'Socials',
