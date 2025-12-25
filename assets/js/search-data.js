@@ -97,7 +97,7 @@ ninja.data = [{
         title: 'Blog_url',
         section: 'Socials',
         handler: () => {
-          window.open("https://www.wolai.com/zymbox/esbYKFbCxRpj8psTugFZYN", "_blank");
+          window.open("https://gist.github.com/Astricaelus", "_blank");
         },
       },{
       id: 'light-theme',
