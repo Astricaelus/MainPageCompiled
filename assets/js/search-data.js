@@ -103,6 +103,13 @@ ninja.data = [{
           window.open("https://orcid.org/0009-0001-7934-656X", "_blank");
         },
       },{
+        id: 'social-openreview',
+        title: 'Openreview',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://openreview.net/profile?id=%7EZhuang_Yumin1", "_blank");
+        },
+      },{
         id: 'social-rss',
         title: 'RSS Feed',
         section: 'Socials',
