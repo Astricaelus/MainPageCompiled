@@ -82,6 +82,13 @@ ninja.data = [{
           window.open("mailto:astricaelus@163.com", "_blank");
         },
       },{
+        id: 'social-matrix',
+        title: 'Matrix',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://matrix.to/#/@astricaelus:matrix.org", "_blank");
+        },
+      },{
         id: 'social-github',
         title: 'GitHub',
         section: 'Socials',
@@ -108,13 +115,6 @@ ninja.data = [{
         section: 'Socials',
         handler: () => {
           window.open("https://gist.github.com/Astricaelus", "_blank");
-        },
-      },{
-        id: 'social-matrix',
-        title: 'Matrix',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://matrix.to/#/@astricaelus:matrix.org", "_blank");
         },
       },{
       id: 'light-theme',
