@@ -117,6 +117,13 @@ ninja.data = [{
           window.open("/feed.xml", "_blank");
         },
       },{
+        id: 'social-x',
+        title: 'X',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://twitter.com/Astricaelus", "_blank");
+        },
+      },{
         id: 'social-blog_url',
         title: 'Blog_url',
         section: 'Socials',
