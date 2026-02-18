@@ -79,7 +79,7 @@ ninja.data = [{
         title: 'Personal_email',
         section: 'Socials',
         handler: () => {
-          window.open("mailto:astricaelus@163.com", "_blank");
+          window.open("mailto:astricaelus@pm.me", "_blank");
         },
       },{
         id: 'social-matrix',
