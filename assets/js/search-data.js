@@ -52,7 +52,7 @@ ninja.data = [{
           title: 'I was admitted to ACM Honors Class.',
           description: "",
           section: "News",},{id: "news-joined-gair-lab-as-an-undergraduate-research-intern",
-          title: 'Joined GAIR-Lab as an undergraduate research intern!',
+          title: 'Joined GAIR-Lab as an undergraduate research intern',
           description: "",
           section: "News",},{id: "news-joined-lumia-group-as-intern-and-start-to-research-in-memory-rag",
           title: 'Joined LUMIA-Group as intern and start to research in memory/RAG',
