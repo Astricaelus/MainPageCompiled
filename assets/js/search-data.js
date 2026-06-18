@@ -128,7 +128,7 @@ ninja.data = [{
         title: 'Blog_url',
         section: 'Socials',
         handler: () => {
-          window.open("https://gist.github.com/Astricaelus", "_blank");
+          window.open("https://halo.zhuangyumin.dev", "_blank");
         },
       },{
       id: 'light-theme',
