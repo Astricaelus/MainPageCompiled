@@ -78,6 +78,13 @@ ninja.data = [{
           window.open("https://github.com/Astricaelus", "_blank");
         },
       },{
+        id: 'social-blog_url',
+        title: 'Blog_url',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://halo.zhuangyumin.dev", "_blank");
+        },
+      },{
         id: 'social-orcid',
         title: 'ORCID',
         section: 'Socials',
@@ -104,13 +111,6 @@ ninja.data = [{
         section: 'Socials',
         handler: () => {
           window.open("/feed.xml", "_blank");
-        },
-      },{
-        id: 'social-blog_url',
-        title: 'Blog_url',
-        section: 'Socials',
-        handler: () => {
-          window.open("https://halo.zhuangyumin.dev", "_blank");
         },
       },{
       id: 'light-theme',
